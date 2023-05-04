@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.titulo{
+    font-family: 'Vollkorn', serif;
+    color: #091d5e;
+    font-size:larger;
+    font-style: italic;
+    font-weight:900;
+    text-align:justify;
+    text-decoration:double;
+    text-transform:capitalize;
+}
+
